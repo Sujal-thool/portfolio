@@ -1,16 +1,29 @@
-# React + Vite
+# Project Documentation: Space-Themed Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a high-performance, modern, and aesthetically pleasing personal portfolio website built with a "Deep Space" futuristic theme.
 
-Currently, two official plugins are available:
+## 🚀 Tech Stack
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Core Frameworks
+- **[React 19](https://react.dev/)**
+- **[Vite](https://vitejs.dev/)**
 
-## React Compiler
+### Styling & Visuals
+- **[Tailwind CSS](https://tailwindcss.com/)**
+- **[Framer Motion](https://www.framer.com/motion/)**
+- **[Lucide React](https://lucide.dev/)**
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### 3D Background
+- **[@react-three/fiber](https://r3f.docs.pmnd.rs/getting-started/introduction)** & **[@react-three/drei](https://github.com/pmndrs/drei)**
 
-## Expanding the ESLint configuration
+## 🏗️ Architecture
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **`src/sections/`**: Main page components (Hero, About, Skills, etc.).
+- **`src/components/ui/`**: Reusable UI elements (Cards, Backgrounds).
+- **`src/pages/`**: Home layout assembly.
+
+## 🛠️ How to Build/Run
+
+1. **Install Dependencies**: `npm install`
+2. **Start Dev Server**: `npm run dev`
+3. **Build for Production**: `npm run build`
