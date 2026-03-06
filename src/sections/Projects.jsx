@@ -4,16 +4,16 @@ import Card from '../components/ui/Card';
 
 const projects = [
     {
-        title: "Nellie - AI Agent",
-        description: "An autonomous AI agent capable of complex reasoning and task execution. Features a neural interface visualization.",
-        tags: ["React", "Three.js", "Python", "WebSockets"],
+        title: "Gamified Environmental Education System",
+        description: "A gamified mobile/web platform or app that teaches students about environmental issues through interactive lessons, challenges, quizzes, and real-world tasks (e.g., tree-planting, waste segregation).",
+        tags: ["React", "Node.js", "MongoDB", "Tailwind"],
         github: "#",
         live: "#"
     },
     {
-        title: "Cosmos Dashboard",
-        description: "Real-time satellite tracking dashboard with 3D globe visualization and orbital mechanics simulation.",
-        tags: ["Vue.js", "Cesium.js", "Tailwind"],
+        title: "Beach Explorer",
+        description: "A web app that allows users to explore beaches conditions(alerts) and weather.",
+        tags: ["React", "Tailwind"],
         github: "#",
         live: "#"
     },
