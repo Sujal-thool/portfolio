@@ -12,7 +12,7 @@ const Contact = () => {
                     className="text-center mb-16"
                 >
                     <h2 className="text-3xl md:text-4xl font-bold font-display mb-4">
-                        <span className="text-secondary-400">05.</span> Initialize Contact
+                        <span className="text-secondary-400">04.</span> Initialize Contact
                     </h2>
                     <p className="text-gray-400 max-w-xl mx-auto">
                         Ready to explore smooth user experiences? My sensors are open for new opportunities and collaborations.
@@ -40,7 +40,7 @@ const Contact = () => {
                                 </div>
                                 <div>
                                     <p className="text-sm text-gray-400">Email Me</p>
-                                    <p className="font-medium">hello@example.com</p>
+                                    <p className="font-medium">sujalthool01@gmail.com</p>
                                 </div>
                             </a>
 

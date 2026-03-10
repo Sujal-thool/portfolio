@@ -15,7 +15,6 @@ const Navbar = () => {
         { name: 'About', href: '#about' },
         { name: 'Skills', href: '#skills' },
         { name: 'Projects', href: '#projects' },
-        { name: 'Experience', href: '#experience' },
         { name: 'Contact', href: '#contact' },
     ];
 
@@ -41,7 +40,7 @@ const Navbar = () => {
                                 </a>
                             ))}
                         </div>
-                    </div>
+                    </div>  
 
                     <div className="hidden md:flex items-center space-x-4">
                         <a href="https://github.com" target="_blank" rel="noreferrer" className="text-gray-400 hover:text-white transition-colors">

@@ -6,7 +6,7 @@ const projects = [
     {
         title: "Gamified Environmental Education System",
         description: "A gamified mobile/web platform or app that teaches students about environmental issues through interactive lessons, challenges, quizzes, and real-world tasks (e.g., tree-planting, waste segregation).",
-        tags: ["React", "Node.js", "MongoDB", "Tailwind"],
+        tags: ["React", "Node.js", "MongoDB", "Tailwind","Express.js"],
         github: "#",
         live: "#"
     },
@@ -19,7 +19,7 @@ const projects = [
     },
     {
         title: "Nebula Chat",
-        description: "Decentralized messaging protocol using IPFS with end-to-end encryption and a cyberpunk aesthetic.",
+        description: "",
         tags: ["Next.js", "Solidity", "IPFS"],
         github: "#",
         live: "#"

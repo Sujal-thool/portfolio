@@ -45,9 +45,9 @@ const Skills = () => {
         {
             title: "Tools & DevOps",
             icon: Wrench,
-            skills: ["Git","Github", "Vite", "Figma"],
+            skills: ["Git","Github", "Vite"],
             delay: 0.3
-        }
+        },
     ];
 
     return (
