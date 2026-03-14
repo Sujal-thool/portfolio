@@ -6,22 +6,22 @@ const projects = [
     {
         title: "Gamified Environmental Education System",
         description: "A gamified mobile/web platform or app that teaches students about environmental issues through interactive lessons, challenges, quizzes, and real-world tasks (e.g., tree-planting, waste segregation).",
-        tags: ["React", "Node.js", "MongoDB", "Tailwind","Express.js"],
-        github: "#",
+        tags: ["React", "Node.js", "MongoDB", "Tailwind", "Express.js"],
+        github: "https://github.com/Sujal-thool/Gamefied-environmental-education",
         live: "#"
     },
     {
         title: "Beach Explorer",
         description: "A web app that allows users to explore beaches conditions(alerts) and weather.",
         tags: ["React", "Tailwind"],
-        github: "#",
+        github: "https://github.com/Sujal-thool/Beach-explorer",
         live: "#"
     },
     {
-        title: "Nebula Chat",
-        description: "",
-        tags: ["Next.js", "Solidity", "IPFS"],
-        github: "#",
+        title: "Inventory Management System",
+        description: "smart inventory management system for small scale businesses.",
+        tags: ["React", "Spring Boot", "Mysql"],
+        github: "https://github.com/Sujal-thool/management",
         live: "#"
     }
 ];
