@@ -17,7 +17,7 @@ const About = () => {
                     </h2>
                     <Card>
                         <p className="text-gray-300 leading-relaxed mb-4 text-center md:text-left">
-                            Crafting immersive full-stack digital experiences with modern frontend technologies, innovative UI design, and powerful backend architecture.
+                            I am a Full Stack Developer, crafting immersive digital experiences with modern frontend technologies, innovative UI design, and powerful backend architecture.
                         </p>
                         <p className="text-gray-300 leading-relaxed text-center md:text-left">
                             I specialize in the React ecosystem, blending technical precision with artistic flair. Whether it's architecting complex applications or crafting pixel-perfect animations, I approach every project with the mindset of an artisan.

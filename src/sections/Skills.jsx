@@ -33,7 +33,7 @@ const Skills = () => {
         {
             title: "Frontend",
             icon: Layout,
-            skills: ["React", "HTML" ,"Tailwindcss"],
+            skills: ["React", "HTML", "Tailwindcss"],
             delay: 0.1
         },
         {
@@ -45,7 +45,7 @@ const Skills = () => {
         {
             title: "Tools & DevOps",
             icon: Wrench,
-            skills: ["Git","Github", "Vite"],
+            skills: ["Git", "Github", "Vite", "AWS"],
             delay: 0.3
         },
     ];

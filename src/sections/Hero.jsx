@@ -20,7 +20,7 @@ const Hero = () => {
                     transition={{ duration: 0.5, delay: 0.4 }}
                     className="text-5xl md:text-7xl font-bold font-display mb-6 bg-clip-text text-transparent bg-gradient-to-r from-white via-blue-100 to-gray-400 text-glow"
                 >
-                    Building the Future <br /> of <span className="text-primary-400">Web Development</span>
+                    Building the Future <br /> of <span className="text-primary-400"> Development</span>
                 </motion.h1>
 
                 <motion.p
@@ -29,7 +29,7 @@ const Hero = () => {
                     transition={{ duration: 0.5, delay: 0.6 }}
                     className="text-gray-300 text-lg md:text-xl mb-10 max-w-2xl mx-auto leading-relaxed"
                 >
-                    I'm a Frontend Developer & UI Designer capable of crafting immersive web experiences with modern technologies and futuristic interfaces.
+                    I'm a Full Stack Developer capable of crafting immersive web experiences with modern technologies and futuristic interfaces.
                 </motion.p>
 
                 <motion.div
